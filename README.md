@@ -1,3 +1,5 @@
+### https://takagotch.github.io/page213/
+---
 # Adminty (Unofficial) Admin Dashboard Template
 **Adminty** is a responsive Bootstrap 4.1 admin template. It provides you with a collection of ready to use code snippets and utilities, custom pages, loads of charts, 4 different dashboard variations, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com//polygon/adminty/default/index.html
 ### Authors
